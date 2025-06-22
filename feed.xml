@@ -3,14 +3,14 @@
     <title>Maria Vernon</title>
     <link href="https://mariavernon.com/feed.xml" rel="self" />
     <link href="https://mariavernon.com" />
-    <updated>2025-06-23T09:24:27+12:00</updated>
+    <updated>2025-06-23T10:12:03+12:00</updated>
     <author>
         <name>Maria Vernon</name>
     </author>
     <id>https://mariavernon.com</id>
 
     <entry>
-        <title>How Do You Handle After-Daycare Meltdowns?</title>
+        <title>Quiz 1</title>
         <author>
             <name>Maria Vernon</name>
         </author>
@@ -22,7 +22,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center"><div class="post__iframe"><iframe width="100%" height="1225" data-tally-src="https://tally.so/embed/wbXEp7?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1" loading="lazy" frameborder="0" marginheight="0" marginwidth="0" title="After-Daycare Meltdown Quiz"></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" data-tally-src="https://tally.so/embed/wbXEp7?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1" frameborder="0" marginheight="0" marginwidth="0" title="After-Daycare Meltdown Quiz"></iframe></div>
             ]]>
         </content>
     </entry>
