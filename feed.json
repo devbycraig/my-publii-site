@@ -14,7 +14,8 @@
             "id": "https://mariavernon.com/how-do-you-handle-after-daycare-meltdowns.html",
             "url": "https://mariavernon.com/how-do-you-handle-after-daycare-meltdowns.html",
             "title": "Quiz 1",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" id=\"tally-quiz\" data-tally-src=\"https://tally.so/embed/wbXEp7?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" title=\"After-Daycare Meltdown Quiz\"></iframe></div>",
+            "summary": "Loading…",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"868\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfFfb88_3vhWuQnFzNByVgyxPpFDowIH2C3DJZfQenZCluezA/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
             "author": {
                 "name": "Maria Vernon"
             },
@@ -22,7 +23,7 @@
                    "Quizzes"
             ],
             "date_published": "2025-06-23T06:37:52+12:00",
-            "date_modified": "2025-06-23T11:08:20+12:00"
+            "date_modified": "2025-06-23T15:12:30+12:00"
         },
         {
             "id": "https://mariavernon.com/shyness.html",
