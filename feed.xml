@@ -3,33 +3,12 @@
     <title>Maria Vernon</title>
     <link href="https://mariavernon.com/feed.xml" rel="self" />
     <link href="https://mariavernon.com" />
-    <updated>2025-06-23T15:17:37+12:00</updated>
+    <updated>2025-06-23T07:20:22+12:00</updated>
     <author>
         <name>Maria Vernon</name>
     </author>
     <id>https://mariavernon.com</id>
 
-    <entry>
-        <title>Quiz 1</title>
-        <author>
-            <name>Maria Vernon</name>
-        </author>
-        <link href="https://mariavernon.com/how-do-you-handle-after-daycare-meltdowns.html"/>
-        <id>https://mariavernon.com/how-do-you-handle-after-daycare-meltdowns.html</id>
-            <category term="Quizzes"/>
-
-        <updated>2025-06-23T06:37:52+12:00</updated>
-            <summary>
-                <![CDATA[
-                    Loading…
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="640" height="868" src="https://docs.google.com/forms/d/e/1FAIpQLSfFfb88_3vhWuQnFzNByVgyxPpFDowIH2C3DJZfQenZCluezA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Shyness</title>
         <author>

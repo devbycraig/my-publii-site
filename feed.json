@@ -5,26 +5,11 @@
     "home_page_url": "https://mariavernon.com",
     "feed_url": "https://mariavernon.com/feed.json",
     "user_comment": "",
-    "icon": "https://mariavernon.com/media/website/Logo2a.jpg",
+    "icon": "https://mariavernon.com/media/website/FB_Logo.jpg",
     "author": {
         "name": "Maria Vernon"
     },
     "items": [
-        {
-            "id": "https://mariavernon.com/how-do-you-handle-after-daycare-meltdowns.html",
-            "url": "https://mariavernon.com/how-do-you-handle-after-daycare-meltdowns.html",
-            "title": "Quiz 1",
-            "summary": "Loading…",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"868\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfFfb88_3vhWuQnFzNByVgyxPpFDowIH2C3DJZfQenZCluezA/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
-            "author": {
-                "name": "Maria Vernon"
-            },
-            "tags": [
-                   "Quizzes"
-            ],
-            "date_published": "2025-06-23T06:37:52+12:00",
-            "date_modified": "2025-06-23T15:17:37+12:00"
-        },
         {
             "id": "https://mariavernon.com/shyness.html",
             "url": "https://mariavernon.com/shyness.html",
