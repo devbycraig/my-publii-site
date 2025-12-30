@@ -3,14 +3,14 @@
     <title>Maria Vernon</title>
     <link href="https://mariavernon.com/feed.xml" rel="self" />
     <link href="https://mariavernon.com" />
-    <updated>2025-12-30T19:54:58+13:00</updated>
+    <updated>2025-12-31T05:38:46+13:00</updated>
     <author>
         <name>Maria Vernon</name>
     </author>
     <id>https://mariavernon.com</id>
 
     <entry>
-        <title>Test post</title>
+        <title>Test Post</title>
         <author>
             <name>Maria Vernon</name>
         </author>
@@ -18,15 +18,15 @@
         <id>https://mariavernon.com/test-post-2/</id>
             <category term="Articles"/>
 
-        <updated>2025-12-30T19:54:51+13:00</updated>
+        <updated>2025-12-31T05:38:46+13:00</updated>
             <summary type="html">
                 <![CDATA[
-                    adsfadsfasdfasdf
+                    afa
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>adsfadsfasdfasdf</p>
+                <p>afa</p>
             ]]>
         </content>
     </entry>
