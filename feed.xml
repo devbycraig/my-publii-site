@@ -3,12 +3,54 @@
     <title>Maria Vernon</title>
     <link href="https://mariavernon.com/feed.xml" rel="self" />
     <link href="https://mariavernon.com" />
-    <updated>2025-12-31T06:15:33+13:00</updated>
+    <updated>2025-12-31T06:25:07+13:00</updated>
     <author>
         <name>Maria Vernon</name>
     </author>
     <id>https://mariavernon.com</id>
 
+    <entry>
+        <title>Uruk</title>
+        <author>
+            <name>Maria Vernon</name>
+        </author>
+        <link href="https://mariavernon.com/uruk/"/>
+        <id>https://mariavernon.com/uruk/</id>
+            <category term="Articles"/>
+
+        <updated>2025-12-31T06:24:46+13:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The first city
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The first city</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sunday</title>
+        <author>
+            <name>Maria Vernon</name>
+        </author>
+        <link href="https://mariavernon.com/sunday/"/>
+        <id>https://mariavernon.com/sunday/</id>
+            <category term="Articles"/>
+
+        <updated>2025-12-31T06:22:21+13:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Sunday starts now.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sunday starts now.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test post</title>
         <author>
